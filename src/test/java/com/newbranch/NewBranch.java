@@ -7,6 +7,7 @@ public class NewBranch {
 		
 		
 		System.out.println("my name is vicky");
+		System.out.prinln("my job is software tester");
 		
 		
 	}
